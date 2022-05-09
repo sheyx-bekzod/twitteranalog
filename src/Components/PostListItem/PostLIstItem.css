@@ -1,0 +1,24 @@
+.app-list-item-label {
+  font-size: 25px;
+  color: #555;
+}
+
+.btn-sm {
+  background-color: rgb(245, 237, 237);
+  border: none;
+}
+
+.important {
+  color: yellow;
+}
+
+.headen_item {
+  opacity: 0;
+  transition:  ease 0.5s;
+}
+
+.liked {
+  transition: ease 0.5s ;
+  color: #ff0000;
+  margin: 0 5px;
+}

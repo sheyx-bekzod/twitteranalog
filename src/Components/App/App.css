@@ -1,0 +1,7 @@
+.app {
+  margin: 50px auto;
+  max-width: 800px;
+  min-height: 500px;
+  background-color: #fff;
+  box-shadow: 2px 4px 5px 6px #555;
+}
